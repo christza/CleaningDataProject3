@@ -1,1 +1,1 @@
-# CleaningDataProject3
+This project is about getting raw data and cleaning them in order to turn them into tidy data.
